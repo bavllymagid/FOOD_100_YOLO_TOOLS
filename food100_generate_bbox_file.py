@@ -15,7 +15,7 @@ import os
 from PIL import Image
 
 # modify the directories and class file to fit
-datapath = 'images'
+datapath = '/mnt/00F26D4EF26D494C/college/gp/foodDetection/UECFOOD100'
 labelpath = 'labels'
 classfilename = 'food100.names'
 
